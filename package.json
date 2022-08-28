@@ -1,0 +1,16 @@
+{
+  "name": "factorial-while",
+  "version": "1.0.0",
+  "main": "factorial-for.js",
+  "scripts": {
+    "start": "factorial-for.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "for",
+    "if"
+  ],
+  "author": "MaKarioVG",
+  "license": "ISC",
+  "description": ""
+}
